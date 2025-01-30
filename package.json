@@ -57,7 +57,7 @@
     "@types/shelljs": "^0.8.15",
     "@types/supertest": "^6.0.2",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
-    "@valora/eslint-config-typescript": "^1.0.2",
+    "@valora/eslint-config-typescript": "^1.1.7",
     "@valora/prettier-config": "^0.0.1",
     "axios": "^1.7.9",
     "conventional-changelog-conventionalcommits": "^5.0.0",
